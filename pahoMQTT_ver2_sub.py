@@ -1,4 +1,4 @@
-import paho.mqtt.client as mqtt
+import paho.mqtt.client as mqtt # type: ignore
 
 broker_address="192.168.1.50"
 #broker_address="mqtt.eclipseprojects.io"
